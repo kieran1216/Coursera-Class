@@ -30,14 +30,17 @@ h1{
 #menu1{
 	background-color:maroon;
 	color:black;
+  tex-align:center;
 }
 #menu2{
 	background-color:orange;
 	color:black;
+  text-align:center;
 }
 #menu3{
 	background-color:yellow;
 	color:black;
+  text-align:center;
 }
 #detail{
 	margin:15px;
