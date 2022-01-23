@@ -28,15 +28,15 @@ h1{
 	right:1px;
 }
 #menu1{
-	background-color:yellow;
-	color:black;
-}
-#menu2{
 	background-color:maroon;
 	color:black;
 }
-#menu3{
+#menu2{
 	background-color:orange;
+	color:black;
+}
+#menu3{
+	background-color:yellow;
 	color:black;
 }
 #detail{
