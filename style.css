@@ -6,6 +6,7 @@ h1{
 	text-align:center;
 	font-size:175%;
 	font-weight:500;
+  border: 5px solid black;
 }
 /*Simple Responsive Framework. */
 .row{
@@ -31,16 +32,19 @@ h1{
 	background-color:maroon;
 	color:black;
   tex-align:center;
-  border:5px solid black;
+  border:1px solid black;
 }
 #menu2{
 	background-color:orange;
 	color:black;
-  
+  border:1px solid black;
+ 
+
 }
 #menu3{
 	background-color:yellow;
 	color:black;
+  border:1px solid black;
 
 }
 #detail{
